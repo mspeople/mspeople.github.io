@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on MSPeople Technical Blog</title>
-    <link>https://mspeople.github.io/blog/</link>
-    <description>Recent content in Blogs on MSPeople Technical Blog</description>
+    <title>Outlook on MSPeople Technical Blog</title>
+    <link>https://mspeople.github.io/tags/outlook/</link>
+    <description>Recent content in Outlook on MSPeople Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Sep 2020 22:20:47 +0800</lastBuildDate>
     
-	<atom:link href="https://mspeople.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mspeople.github.io/tags/outlook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,17 +36,6 @@
       
       <guid>https://mspeople.github.io/blog/reduce_size/</guid>
       <description>Outlook 2003 not showing Embedded Images Deleting the reg key location : HKEY_CURRENT_USER\Software\Microsoft\Office\11.</description>
-    </item>
-    
-    <item>
-      <title>Testing Blog</title>
-      <link>https://mspeople.github.io/blog/test/</link>
-      <pubDate>Fri, 11 Sep 2020 20:39:47 +0800</pubDate>
-      
-      <guid>https://mspeople.github.io/blog/test/</guid>
-      <description>Hello World
-This is testing
-h1 h2 h6 Testing bold testing</description>
     </item>
     
   </channel>

@@ -6,10 +6,37 @@
     <description>Recent content on MSPeople Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 20:39:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 22:20:47 +0800</lastBuildDate>
     
 	<atom:link href="https://mspeople.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://mspeople.github.io/blog/post-20200916/</link>
+      <pubDate>Wed, 16 Sep 2020 22:20:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/post-20200916/</guid>
+      <description>This is my first blog This is my first blog, I am going to share some my coding and some technical sharing.</description>
+    </item>
+    
+    <item>
+      <title>Outlook 2003 not showing Embedded Images</title>
+      <link>https://mspeople.github.io/blog/outook_2003_not_embedded_image/</link>
+      <pubDate>Wed, 16 Sep 2020 20:39:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/outook_2003_not_embedded_image/</guid>
+      <description>Outlook 2003 not showing Embedded Images Check storage vssadmin list shadowstorage Run to reduce size vssadmin resize shadowstorage /on=c: /for=c: /maxsize=5GB</description>
+    </item>
+    
+    <item>
+      <title>Reduce size for System Volume Information</title>
+      <link>https://mspeople.github.io/blog/reduce_size/</link>
+      <pubDate>Wed, 16 Sep 2020 20:39:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/reduce_size/</guid>
+      <description>Outlook 2003 not showing Embedded Images Deleting the reg key location : HKEY_CURRENT_USER\Software\Microsoft\Office\11.</description>
+    </item>
     
     <item>
       <title>Testing Blog</title>
@@ -20,15 +47,6 @@
       <description>Hello World
 This is testing
 h1 h2 h6 Testing bold testing</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://mspeople.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://mspeople.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>

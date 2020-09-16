@@ -6,62 +6,35 @@
     <description>Recent content in Tags on MSPeople Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 20:39:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 22:20:47 +0800</lastBuildDate>
     
 	<atom:link href="https://mspeople.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Outlook</title>
+      <link>https://mspeople.github.io/tags/outlook/</link>
+      <pubDate>Wed, 16 Sep 2020 22:20:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/tags/outlook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Style</title>
       <link>https://mspeople.github.io/tags/style/</link>
-      <pubDate>Fri, 11 Sep 2020 20:39:47 +0800</pubDate>
+      <pubDate>Wed, 16 Sep 2020 22:20:47 +0800</pubDate>
       
       <guid>https://mspeople.github.io/tags/style/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Game</title>
-      <link>https://mspeople.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Server</title>
+      <link>https://mspeople.github.io/tags/server/</link>
+      <pubDate>Wed, 16 Sep 2020 20:39:47 +0800</pubDate>
       
-      <guid>https://mspeople.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://mspeople.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://mspeople.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://mspeople.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://mspeople.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://mspeople.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://mspeople.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://mspeople.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://mspeople.github.io/tags/python/</guid>
+      <guid>https://mspeople.github.io/tags/server/</guid>
       <description></description>
     </item>
     

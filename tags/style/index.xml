@@ -6,10 +6,28 @@
     <description>Recent content in Style on MSPeople Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 20:39:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 22:20:47 +0800</lastBuildDate>
     
 	<atom:link href="https://mspeople.github.io/tags/style/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://mspeople.github.io/blog/post-20200916/</link>
+      <pubDate>Wed, 16 Sep 2020 22:20:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/post-20200916/</guid>
+      <description>This is my first blog This is my first blog, I am going to share some my coding and some technical sharing.</description>
+    </item>
+    
+    <item>
+      <title>Reduce size for System Volume Information</title>
+      <link>https://mspeople.github.io/blog/reduce_size/</link>
+      <pubDate>Wed, 16 Sep 2020 20:39:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/reduce_size/</guid>
+      <description>Outlook 2003 not showing Embedded Images Deleting the reg key location : HKEY_CURRENT_USER\Software\Microsoft\Office\11.</description>
+    </item>
     
     <item>
       <title>Testing Blog</title>

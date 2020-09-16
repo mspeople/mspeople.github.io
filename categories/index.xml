@@ -6,10 +6,28 @@
     <description>Recent content in Categories on MSPeople Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 20:39:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 22:20:47 +0800</lastBuildDate>
     
 	<atom:link href="https://mspeople.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personal</title>
+      <link>https://mspeople.github.io/categories/personal/</link>
+      <pubDate>Wed, 16 Sep 2020 22:20:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows Platform</title>
+      <link>https://mspeople.github.io/categories/windows-platform/</link>
+      <pubDate>Wed, 16 Sep 2020 20:39:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/categories/windows-platform/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>testing style</title>
@@ -17,15 +35,6 @@
       <pubDate>Fri, 11 Sep 2020 20:39:47 +0800</pubDate>
       
       <guid>https://mspeople.github.io/categories/testing-style/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go Language</title>
-      <link>https://mspeople.github.io/categories/go-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://mspeople.github.io/categories/go-language/</guid>
       <description></description>
     </item>
     
