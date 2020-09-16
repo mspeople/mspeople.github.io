@@ -17,7 +17,7 @@
       <pubDate>Wed, 16 Sep 2020 20:39:47 +0800</pubDate>
       
       <guid>https://mspeople.github.io/blog/outook_2003_not_embedded_image/</guid>
-      <description>Outlook 2003 not showing Embedded Images Check storage vssadmin list shadowstorage Run to reduce size vssadmin resize shadowstorage /on=c: /for=c: /maxsize=5GB</description>
+      <description>Check storage vssadmin list shadowstorage Run to reduce size vssadmin resize shadowstorage /on=c: /for=c: /maxsize=5GB</description>
     </item>
     
     <item>
@@ -26,7 +26,16 @@
       <pubDate>Wed, 16 Sep 2020 20:39:47 +0800</pubDate>
       
       <guid>https://mspeople.github.io/blog/reduce_size/</guid>
-      <description>Outlook 2003 not showing Embedded Images Deleting the reg key location : HKEY_CURRENT_USER\Software\Microsoft\Office\11.</description>
+      <description>Deleting the reg key location : HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\Outlook\Security Key : OutlookSecureTempFolder Fixed the problem.</description>
+    </item>
+    
+    <item>
+      <title>Soft Recovery for Exchange 2003 DB</title>
+      <link>https://mspeople.github.io/blog/soft-recovery-for-exchange-2003-db/</link>
+      <pubDate>Wed, 16 Sep 2020 20:39:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/soft-recovery-for-exchange-2003-db/</guid>
+      <description>eseutil /R /L &amp;ldquo;Log Location&amp;rdquo; /I E00 (if it has E01, E02), add it.</description>
     </item>
     
   </channel>

@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://mspeople.github.io/tags/outlook/</loc>
-    <lastmod>2020-09-16T22:20:47+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mspeople.github.io/categories/personal/</loc>
     <lastmod>2020-09-16T22:20:47+08:00</lastmod>
   </url>
@@ -43,6 +38,16 @@
   </url>
   
   <url>
+    <loc>https://mspeople.github.io/tags/exchange/</loc>
+    <lastmod>2020-09-16T20:39:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mspeople.github.io/tags/outlook/</loc>
+    <lastmod>2020-09-16T20:39:47+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mspeople.github.io/blog/outook_2003_not_embedded_image/</loc>
     <lastmod>2020-09-16T20:39:47+08:00</lastmod>
   </url>
@@ -54,6 +59,11 @@
   
   <url>
     <loc>https://mspeople.github.io/tags/server/</loc>
+    <lastmod>2020-09-16T20:39:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mspeople.github.io/blog/soft-recovery-for-exchange-2003-db/</loc>
     <lastmod>2020-09-16T20:39:47+08:00</lastmod>
   </url>
   
