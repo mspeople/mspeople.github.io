@@ -5,7 +5,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Soft Recovery for Exchange 2003 DB">
+  <meta name="description" content="MySql Check variables">
   <meta name="author" content="MSPeople">
   <meta name="generator" content="Hugo 0.74.3" />
 
@@ -94,21 +94,38 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         
-        <a href="/categories/windows-platform"
-          class="text-primary">Windows platform</a>
+        <a href="/categories/mysql"
+          class="text-primary">My s q l</a>
         
-        <h2>Soft Recovery for Exchange 2003 DB</h2>
+        <h2>MySql Check variables</h2>
         <div class="mb-3 post-meta">
           <span>By MSPeople</span>
           
           <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>16 September 2020</span>
+          <span>06 October 2020</span>
           
         </div>
         
         <div class="content mb-5">
-          <p>eseutil /R /L &ldquo;Log Location&rdquo; /I E00 (if it has E01, E02), add it.
-Source: <a href="http://technet.microsoft.com/en-us/library/bb498209%28v=exchg.80%29.aspx">http://technet.microsoft.com/en-us/library/bb498209%28v=exchg.80%29.aspx</a></p>
+          <p>determine which charset/collations are available
+SHOW CHARSET;
+SHOW COLLATION;
+check charset
+SHOW VARIABLES LIKE &lsquo;%character%';
+SHOW VARIABLES LIKE &lsquo;%collation%';
+set charset (in configure file -&gt; my.cnf)
+[mysqld]
+character-set-server=utf8mb4
+collation-server=utf8mb4_general_ci
+check database/table charset
+SHOW CREATE DATABASE databasename;
+SHOW CREATE TABLE tablename;
+change the database/table charset：
+ALTER DATABASE databasename CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+ALTER TABLE tablename CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+set when create database/table:
+CREATE DATABASE new_db CHARACTER SET utf8mb4 DEFAULT COLLATE utf8mb4_general_ci;
+CREATE TABLE new_table (id INT) CHARSET utf8mb4 COLLATE utf8mb4_general_ci;</p>
 
         </div>
 

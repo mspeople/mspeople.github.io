@@ -6,10 +6,19 @@
     <description>Recent content on MSPeople Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 22:20:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2020 19:39:47 +0800</lastBuildDate>
     
 	<atom:link href="https://mspeople.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MySql Check variables</title>
+      <link>https://mspeople.github.io/blog/mysql_check_variables/</link>
+      <pubDate>Tue, 06 Oct 2020 19:39:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/mysql_check_variables/</guid>
+      <description>determine which charset/collations are available SHOW CHARSET; SHOW COLLATION; check charset SHOW VARIABLES LIKE &amp;lsquo;%character%&#39;; SHOW VARIABLES LIKE &amp;lsquo;%collation%&#39;; set charset (in configure file -&amp;gt; my.</description>
+    </item>
     
     <item>
       <title>My First Blog</title>
