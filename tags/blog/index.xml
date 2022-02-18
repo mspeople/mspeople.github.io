@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on MSPeople Technical Blog</title>
+    <link>https://mspeople.github.io/tags/blog/</link>
+    <description>Recent content in Blog on MSPeople Technical Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Feb 2022 08:39:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://mspeople.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Second Blog</title>
+      <link>https://mspeople.github.io/blog/my_first_blog_20210113/</link>
+      <pubDate>Fri, 18 Feb 2022 08:39:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/my_first_blog_20210113/</guid>
+      <description>This is my second blog for testing</description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://mspeople.github.io/blog/my_first_blog_20220218/</link>
+      <pubDate>Wed, 13 Jan 2021 17:39:47 +0800</pubDate>
+      
+      <guid>https://mspeople.github.io/blog/my_first_blog_20220218/</guid>
+      <description>私穩何價？</description>
+    </item>
+    
+  </channel>
+</rss>
