@@ -6,7 +6,7 @@
     <description>Recent content on MSPeople Technical Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Feb 2022 08:39:47 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Feb 2022 08:39:47 +0800</lastBuildDate>
     
 	<atom:link href="https://mspeople.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>My Second Blog</title>
       <link>https://mspeople.github.io/blog/my_first_blog_20210113/</link>
-      <pubDate>Fri, 18 Feb 2022 08:39:47 +0800</pubDate>
+      <pubDate>Thu, 17 Feb 2022 08:39:47 +0800</pubDate>
       
       <guid>https://mspeople.github.io/blog/my_first_blog_20210113/</guid>
       <description>This is my second blog for testing</description>
